@@ -8,10 +8,6 @@
 }
 
 @media screen and (min-width: 768px) and (max-width: 992px){
-    body{
-        background-image: linear-gradient(to top, var(--azulEcuro), var(--azulNeutro));
-
-    }
 
     section#login{
         width: 90vw;
@@ -32,11 +28,7 @@
 }
 
 @media screen and (min-width: 992px){
-    body{
-        background-image: linear-gradient(to top, var(--azulEcuro), var(--azulNeutro));
 
-    }
-    
     section#login{
         width: 60vw;
         height: 50vh;
@@ -45,13 +37,13 @@
     section#login > div#imagem{
         width: 50%;
         height: 100%;
-        float: left;
+        float: right;
     }
 
     section#login > div#formulario{
         width: 50%;
         height: 100%;
-        float: right;
+        float: left;
     }
     
 }
