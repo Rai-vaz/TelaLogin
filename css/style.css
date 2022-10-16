@@ -102,13 +102,13 @@ div.campo > span{
 
 div.campo input{
    width: calc(100% - 63px);
-   height: 99%;
+   height: 96%;
    border-radius: 0 5px 5px 0;
    font-family: 1em;
    padding: 0 10px;
    outline: none;
    border: 2px solid var(--azulEcuro);
-   transform: translate(8px , -17px);
+   transform: translate(8px , -18px);
    
 }
 
